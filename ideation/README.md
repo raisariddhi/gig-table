@@ -27,13 +27,22 @@ To address these challenges, three user scenarios were developed, two of which a
 ### Scenario 2
 **User:** The user is at a cafe, accessing a mobile web app to find one of the three shows they are playing in the next month. They use filter options to narrow down group messages by the next month, specific band names, or event spaces.
 
-## Feature Descriptions
-
-A diagram was created to illustrate potential designs for the mobile website, aiming to alleviate user pain points. Each major feature is described in detail, highlighting its intended functionality and possible expansions.
+![Brainstorming](figures/brainstorming1.png)
 
 ## Low-Fidelity Prototypes
 
 Three tasks were undertaken to develop low-fidelity prototypes focusing on messaging, calendar, and to-do lists. These prototypes underwent multiple iterations to ensure user-friendliness and accuracy. These served as the foundation for creating a high-fidelity prototype, incorporating user feedback and ideas.
+
+![Brainstorming](figures/brainstorming2.png)
+
+![Lo-Fi](figures/lofi1a.png)
+![Lo-Fi](figures/lofi1b.png)
+
+![Lo-Fi](figures/lofi2a.png)
+![Lo-Fi](figures/lofi2b.png)
+
+![Lo-Fi](figures/lofi3a.png)
+![Lo-Fi](figures/lofi3b.png)
 
 ## Conclusion
 
