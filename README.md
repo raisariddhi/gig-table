@@ -1,6 +1,6 @@
-# GigTable
+# GigTable - Connect with Local Musicians and Manage Gigs
 
-GigTable is your all-in-one platform for simplifying gig organization, communication, and task management for local musicians and bands in the Madison area and beyond. This GitHub repository contains various folders that encompass the ideation, analysis, prototyping, evaluation, and the final prototype of the GigTable project.
+**[GigTable](https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1)** is your all-in-one platform for simplifying gig organization, communication, and task management for local musicians and bands in the Madison area and beyond. This GitHub repository contains various folders that encompass the ideation, analysis, prototyping, evaluation, and the final prototype of the GigTable project.
 
 ## Table of Contents
 
