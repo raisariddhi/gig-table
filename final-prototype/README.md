@@ -16,7 +16,7 @@ After receiving valuable feedback from prototype testing, several new features a
 ### Final Prototype
 - The final calendar prototype was designed using Figma, including interactive components for different pages and input information saving to create events.
 
-![Calendar](figures/images1-2.png)
+![Calendar](figures/image1-2.png)
 
 ## Messaging Feature
 
@@ -37,7 +37,7 @@ The messaging system's final prototype in Figma incorporates important adjustmen
 ### Final Prototype Screenshot
 - Below is a screenshot of the final messaging prototype with the implemented changes:
 
-![Messaging](figures/message)
+![Messaging](figures/messsage)
 
 ## To-Do Feature
 
@@ -60,7 +60,7 @@ To address confusion regarding event requests and invitations, the landing page 
 
 ![Landing Page](figures/image4-5)
 
-**[Click here to view and interact with our final prototype.](https://tinyurl.com/6jjsstk8)**
+**[Click here to view and interact with our final prototype.]([https://tinyurl.com/6jjsstk8](https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1))**
 
 ---
 
