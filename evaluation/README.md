@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This README.md document provides a comprehensive report on a usability study conducted to assess the effectiveness of www.GigTable.com. The study aimed to evaluate the user experience by exploring six specific tasks across three participants. The assessment included error and success rates as well as qualitative data gathering.
+This README.md document provides a comprehensive report on a usability study conducted to assess the effectiveness of GigTable. The study aimed to evaluate the user experience by exploring six specific tasks across three participants. The assessment included error and success rates as well as qualitative data gathering.
 
 ## Methodology
 
@@ -45,8 +45,8 @@ This README.md document provides a comprehensive report on a usability study con
 
 ## Conclusion
 
-The usability study revealed valuable insights into the user experience of www.GigTable.com. Addressing the identified issues and implementing the recommendations will enhance the platform's usability and improve the gig booking process for musicians, bands, and venue hosts.
+The usability study revealed valuable insights into the user experience of GigTable. Addressing the identified issues and implementing the recommendations will enhance the platform's usability and improve the gig booking process for musicians, bands, and venue hosts.
 
 ---
 
-This detailed README.md provides a third-person perspective on the methodology, findings, and recommendations resulting from the usability study conducted on GigTable.com.
+This detailed README.md provides a third-person perspective on the methodology, findings, and recommendations resulting from the usability study conducted on GigTable.
