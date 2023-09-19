@@ -37,7 +37,7 @@ The messaging system's final prototype in Figma incorporates important adjustmen
 ### Final Prototype Screenshot
 - Below is a screenshot of the final messaging prototype with the implemented changes:
 
-![Messaging](figures/messsage)
+![Messaging](figures/messsage.png)
 
 ## To-Do Feature
 
@@ -47,7 +47,7 @@ A subtle yet impactful adjustment has been made to the To-Do feature:
 - The "checkbox" icon within the "Add Task" button has been removed, simplifying the button's appearance.
 - This change reduces potential user confusion and aligns with user feedback, particularly from User 1.
 
-![To-Do](figures/image3)
+![To-Do](figures/image3.png)
 
 ## Landing Page Update
 
@@ -58,7 +58,7 @@ To address confusion regarding event requests and invitations, the landing page 
 - Notifications, such as the count of pending invitations and unread notifications (indicated by a red dot), are prominently displayed.
 - Clicking on messages takes users directly to event invitations, streamlining the process of accessing and responding to requests.
 
-![Landing Page](figures/image4-5)
+![Landing Page](figures/image4-5.png)
 
 **[Click here to view and interact with our final prototype.]([https://tinyurl.com/6jjsstk8](https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1))**
 
