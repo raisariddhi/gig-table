@@ -70,7 +70,7 @@ The usability study phase involved testing specific tasks with participants to g
 
 GigTable aims to revolutionize gig organization for local musicians, making it simpler, more efficient, and less stressful. We invite you to explore the various folders and documents in this repository to gain insight into the journey of creating GigTable.
 
-Feel free to interact with our [final prototype](final-prototype/interactive-prototype-link.md) and experience the future of gig management!
+Feel free to interact with our **[final prototype](https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1)** and experience the future of gig management!
 
 ---
 
