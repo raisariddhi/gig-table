@@ -60,7 +60,7 @@ To address confusion regarding event requests and invitations, the landing page 
 
 ![Landing Page](figures/image4-5.png)
 
-**[Click here to view and interact with our final prototype.]((https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1))**
+**[Click here to view and interact with our final prototype.](https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1)**
 
 ---
 
