@@ -21,7 +21,7 @@ The inquiry yielded several stages of analysis and model creation:
 - Video recordings of interviews were transcribed.
 - Information from transcriptions was coded.
 
-### Affinity Diagrams (Again)
+### Affinity Diagrams 
 - Transcribed data was organized into affinity diagrams.
 - Affinity diagrams helped form different models.
 - Affinity diagrams for each user were designed to understand various aspects, including motivations, problems, tasks, physical aspects, and potential solutions.
