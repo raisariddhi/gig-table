@@ -1,4 +1,4 @@
-# GigTable.com - Contextual Inquiry and Quality-of-Life Improvements
+# GigTable.com - Scenarios and Sketches
 
 ## Introduction
 
