@@ -72,6 +72,11 @@ GigTable aims to revolutionize gig organization for local musicians, making it s
 
 Feel free to interact with our **[final prototype](https://www.figma.com/proto/y5FJGzhRAOEzIQckA1z1XS/Final-Prototype?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=fD9sKJm1kEy24eha-1)** and experience the future of gig management!
 
+![Landing](figures/landing.png)
+![Calendar](figures/calendar.png)
+![Message](figures/message.png)
+![To-do](figures/todo.png)
+
 ---
 
 **Disclaimer:** GigTable is a fictional project created for educational purposes and does not represent an actual product or service.
